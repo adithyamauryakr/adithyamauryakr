@@ -19,9 +19,9 @@ Building machine-learned models at the intersection of chemistry and deep learni
 
 | Project | Description |
 | --- | --- |
+| **Reaction-Mechanism LLM** *(in progress)* | Developing an LLM that can reason about organic reaction mechanisms, with [lamalab](https://github.com/lamalab-org) |
 | [**daccnet**](https://github.com/adithyamauryakr/daccnet) | Graph neural network for predicting MOF–CO₂ binding energies |
-| [**BANDNN_PyTorch**](https://github.com/adithyamauryakr/BANDNN_PyTorch) | PyTorch reimplementation of a bond-additive neural network model (*J. Comp. Chem.* 2020, 41, 790–799) |
-| [**Portfolio**](https://github.com/adithyamauryakr/portfolio) | Personal portfolio site, live at [adithyamauryakr.github.io](https://adithyamauryakr.github.io) |
+| [**PACE**](https://github.com/Dixit-Lab-CELL/PACE) | ML-screened, DFT-refined tool for finding stable base–adsorbate configurations, developed at [Dixit-Lab-CELL](https://github.com/Dixit-Lab-CELL) |
 
 ### Tech Stack
 
@@ -40,8 +40,8 @@ Building machine-learned models at the intersection of chemistry and deep learni
 ### GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=adithyamauryakr&include_all_commits=true&theme=shadow_green" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=adithyamauryakr&layout=donut&langs_count=8&hide_values=true&theme=light_github&hide=Jupyter%20Notebook" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=adithyamauryakr&include_all_commits=true&hide_rank=true&theme=catppuccin_latte" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=adithyamauryakr&layout=donut&langs_count=8&hide_values=true&theme=catppuccin_latte&hide=Jupyter%20Notebook" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=adithyamauryakr&hide_border=true&theme=default" alt="GitHub streak" />
 </div>
