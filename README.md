@@ -1,30 +1,47 @@
-<h1 align="center">Hi 👋, I'm Adithya Maurya K R</h1>
-<h3 align="center">M.Sc. Chemical Sciences 🧪 | Computational & Quantum Chemistry 💻 | AI/ML for Molecules 🤖 | Scientific Illustrator 🎨</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyamauryakr" alt="adithyamauryakr" /></a> </p>
+# Adithya Maurya K R
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=4A9DFF&center=true&vCenter=true&width=560&lines=Computational+%26+Quantum+Chemistry;AI%2FML+for+Molecules;M.Sc.+Chemical+Sciences)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **RectionReasoner**
+Building machine-learned models at the intersection of chemistry and deep learning — currently working on **ReactionReasoner** and exploring **LLMs for chemistry**.
 
-- 🌱 I’m currently learning **LLMs for chemistry problems**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://adithyamauryakr.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyamauryakr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adithyamaurya274@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adithyamauryakr?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/adithyamauryakr?tab=repositories](https://github.com/adithyamauryakr?tab=repositories)
+</div>
 
-- 💬 Ask me about **python, git**
+<br>
 
-- 📫 How to reach me **adithyamaurya274@gmail.com**
+### Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adithyamauryakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyamauryakr" height="30" width="40" /></a>
+| Project | Description |
+| --- | --- |
+| [**daccnet**](https://github.com/adithyamauryakr/daccnet) | Graph neural network for predicting MOF–CO₂ binding energies |
+| [**BANDNN_PyTorch**](https://github.com/adithyamauryakr/BANDNN_PyTorch) | PyTorch reimplementation of a bond-additive neural network model (*J. Comp. Chem.* 2020, 41, 790–799) |
+| [**Portfolio**](https://github.com/adithyamauryakr/portfolio) | Personal portfolio site, live at [adithyamauryakr.github.io](https://adithyamauryakr.github.io) |
+
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyamauryakr&show_icons=true&locale=en&layout=compact" alt="adithyamauryakr" /></p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adithyamauryakr&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamauryakr&layout=compact&hide_border=true&theme=default&hide_title=true" alt="Top languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyamauryakr&show_icons=true&locale=en" alt="adithyamauryakr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyamauryakr&" alt="adithyamauryakr" /></p>
+<img src="https://streak-stats.demolab.com/?user=adithyamauryakr&hide_border=true&theme=default" alt="GitHub streak" />
+</div>
