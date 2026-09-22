@@ -40,8 +40,8 @@ Building machine-learned models at the intersection of chemistry and deep learni
 ### GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adithyamauryakr&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyamauryakr&layout=compact&hide_border=true&theme=default&hide_title=true" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=adithyamauryakr&include_all_commits=true&theme=shadow_green" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=adithyamauryakr&layout=donut&langs_count=8&hide_values=true&theme=light_github&hide=Jupyter%20Notebook" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=adithyamauryakr&hide_border=true&theme=default" alt="GitHub streak" />
 </div>
