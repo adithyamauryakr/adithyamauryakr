@@ -2,7 +2,7 @@
 
 # Adithya Maurya K R
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=4A9DFF&center=true&vCenter=true&width=560&lines=Computational+%26+Quantum+Chemistry;AI%2FML+for+Molecules;M.Sc.+Chemical+Sciences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7AD82&center=true&vCenter=true&width=560&lines=M.+Sc+Chemical+Sciences;AI%2FML+for+Chemistry)](https://git.io/typing-svg)
 
 Building machine-learned models at the intersection of chemistry and deep learning — currently working on **ReactionReasoner** and exploring **LLMs for chemistry**.
 
